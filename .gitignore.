@@ -1,0 +1,17 @@
+# Compiled files
+*.o
+*.obj
+*.exe
+a.out
+*.out
+
+# Audio files
+*.mp3
+*.wav
+
+# Temporary files
+*.tmp
+
+# Editor settings
+.vscode/
+.idea/
